@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ryan 👋
 
 - 🌱 Atualmente cursando Informática na UEM!
-- 📚 Estudando React Native!
+- 📚 Estudando Dart e utilizando seu framework Flutter!
 - 📫 Contate-me no E-mail: ryanguilherme2404@gmail.com
 - 📢 Linkedin: https://www.linkedin.com/in/ryanokonski/
 - ⚡ Fun fact: Jogos eletrónicos são minha paixão!
