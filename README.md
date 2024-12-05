@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ryan 👋
 
-- 🌱 Atualmente cursando Informática na UEM!
+- 🌱 Atualmente cursando bacharelado em Engenharia de Software na Universidade Estadual de Maringá - UEM!
 - 📚 Estudando Java e utilizando seu framework Spring!
 - 📫 Contate-me no E-mail: ryanguilherme2404@gmail.com
 - 📢 Linkedin: https://www.linkedin.com/in/ryanokonski/
